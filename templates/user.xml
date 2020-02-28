@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="psfs" value="public static final String =&quot;&quot;" description="String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psfi" value="public static final int =" description="int" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
