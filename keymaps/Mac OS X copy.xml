@@ -1,7 +1,7 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="ChangesView.Diff" />
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta y" />
@@ -32,6 +32,7 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Groovy.Shell.Execute" />
