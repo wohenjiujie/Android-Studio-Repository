@@ -38,9 +38,13 @@
           <option name="url" value="http://172.31.12.209:8099" />
           <option name="userName" value="xiaomu1079@outlook.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Yang-wen123/chatroom.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
+    <option name="cloneParentDir" value="$USER_HOME$/CodeProject" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
